@@ -1,0 +1,5 @@
+Press W,S,D,A to move the Left player
+Press Arrow keys to move the right player
+Health can be increased by collecting Health
+Aim of game is to defeat the player by shotting the gun
+if The missile touches the player the health decreases
